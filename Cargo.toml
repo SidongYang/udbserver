@@ -11,7 +11,7 @@ categories = ["emulators"]
 keywords = ["gdb", "debugging", "emulator"]
 
 [lib]
-crate-type = ["lib"]
+crate-type = ["cdylib"]
 
 [features]
 capi = []
